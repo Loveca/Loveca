@@ -24,3 +24,5 @@ Larger features in flight (temporarily closed under the project's open-PR limit;
 - **Context window composition** — a live breakdown of what occupies the model's context, right in the composer ([#8237](https://github.com/bytedance/deer-flow/pull/8237), +2,725 lines / 34 files).
 
 Also writing [tiny-claude-code](https://github.com/Loveca/tiny-claude-code), a 21-chapter build-it-yourself guide to the internals of a coding agent — the same layer I work on upstream.
+
+📫 [chitoge0508@gmail.com](mailto:chitoge0508@gmail.com)
